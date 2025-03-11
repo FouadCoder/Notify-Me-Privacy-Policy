@@ -1,0 +1,47 @@
+{
+    "english" : "Englisch",
+    "spanish": "Spanisch",
+    "arabic": "Arabisch",
+    "german": "Deutsch" ,
+
+
+    "privacyPolicy": "Datenschutzrichtlinie",
+"privacyPolicyM": "Ihre Privatsphäre ist uns wichtig. Diese Datenschutzrichtlinie erklärt, wie Notify Me Ihre Daten behandelt und Ihre Informationen sichert. Durch die Nutzung von Notify Me stimmen Sie dieser Richtlinie zu. Wenn Sie nicht einverstanden sind, verwenden Sie die App bitte nicht.",
+
+"DataWeCollect": "Daten, die wir sammeln",
+"DataWeCollectM": "Notify Me sammelt keine persönlichen Daten. Alle Erinnerungen werden lokal auf Ihrem Gerät gespeichert, und wir haben keinen Zugriff darauf. Wir erhalten nur Daten, wenn Sie Feedback senden, und selbst dann nur das, was Sie freiwillig teilen.",
+
+"InternetUse": "Internetnutzung",
+"InternetUseM": "Notify Me benötigt keine Internetverbindung für die normale Nutzung. Die App verbindet sich nur mit dem Internet, wenn Sie freiwillig Feedback senden. Wir verfolgen Ihre Online-Aktivitäten nicht und nutzen den Internetzugang nicht für andere Zwecke.",
+
+"PermissionsWeRequest": "Berechtigungen, die wir anfordern",
+"PermissionsWeRequestM": "Notify Me benötigt folgende Berechtigungen, um ordnungsgemäß zu funktionieren:\n- **Benachrichtigungszugriff**: Um Erinnerungen zur geplanten Zeit zu liefern.\n- **Internetzugriff** (nur für Feedback): Wird nur verwendet, wenn Sie sich entscheiden, Feedback zu senden. Es werden sonst keine Daten übertragen.\nWir fordern keinen Zugriff auf persönliche Daten wie Kontakte, Standort oder Gerätespeicher an.",
+
+"HowWeUseYourData": "Wie wir Ihre Daten verwenden",
+"HowWeUseYourDataM": "Ihre Erinnerungen werden nur genutzt, um Sie zur geplanten Zeit zu benachrichtigen. Wir greifen nicht darauf zu, verarbeiten oder teilen sie nicht. Wenn Sie Feedback senden, wird es ausschließlich zur Verbesserung der App verwendet und nicht mit persönlichen Informationen verknüpft.",
+
+"FeedbackSubmission": "Feedback senden",
+"FeedbackSubmissionM": "Wenn Sie Feedback über die App senden, sammeln wir nur den Inhalt Ihrer Nachricht. Wir erfassen keine persönlichen Daten wie Name, E-Mail oder Geräteinformationen, es sei denn, Sie geben diese freiwillig an.",
+
+"AppUsageAndDataStorage": "App-Nutzung und Datenspeicherung",
+"AppUsageAndDataStorageM": "Alle von Ihnen erstellten Erinnerungen werden lokal auf Ihrem Gerät gespeichert. Wir laden sie nicht hoch, teilen oder greifen darauf zu. Da Notify Me kein Konto benötigt, bleiben Ihre Daten privat und unter Ihrer Kontrolle.",
+
+"DataStorageAndSecurity": "Datenspeicherung und Sicherheit",
+"DataStorageAndSecurityM": "Ihre Daten bleiben auf Ihrem Gerät. Wir speichern keine Erinnerungen auf unseren Servern und teilen sie nicht mit Dritten. Wenn Sie Feedback senden, wird es sicher übertragen und enthält keine persönlichen Daten, es sei denn, Sie geben sie freiwillig an.",
+
+"ThirdPartyServices": "Drittanbieterdienste",
+"ThirdPartyServicesM": "Notify Me verwendet keine Drittanbieter-Dienste, die Benutzerdaten sammeln, verfolgen oder verarbeiten. Ihre Informationen bleiben privat und werden nicht mit Werbetreibenden oder Analysediensten geteilt.",
+
+"YourRights": "Ihre Rechte",
+"YourRightsM": "Da Notify Me keine persönlichen Daten speichert, ist keine Kontolöschung oder Datenanforderung erforderlich. Wenn Sie jedoch Bedenken bezüglich Ihres Feedbacks oder der App haben, können Sie uns kontaktieren.",
+
+"ChildrenPrivacy": "Datenschutz für Kinder",
+"ChildrenPrivacyM": "Notify Me ist für alle Nutzer konzipiert und sammelt keine persönlichen Daten von Kindern unter 13 Jahren oder anderen Personen.",
+
+"PolicyChanges": "Änderungen dieser Datenschutzrichtlinie",
+"PolicyChangesM": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Wesentliche Änderungen werden in der App angezeigt. Das 'Letzte Aktualisierung'-Datum am Ende dieser Richtlinie gibt die neueste Version an.",
+
+"ContactUs": "Kontaktieren Sie uns",
+"ContactUsM": "Wenn Sie Fragen oder Bedenken zu dieser Datenschutzrichtlinie oder der App haben, kontaktieren Sie uns bitte unter:"
+
+}

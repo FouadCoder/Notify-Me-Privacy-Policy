@@ -1,0 +1,47 @@
+{
+    "english" : "English",
+    "spanish" : "Spanish",
+    "arabic" : "Arabic",
+    "german" : "German" ,
+
+
+
+    "privacyPolicy": "Privacy Policy",
+    "privacyPolicyM": "Your privacy is important to us. This Privacy Policy explains how Notify Me handles your data and ensures your information stays secure. By using Notify Me, you agree to this policy. If you do not agree, please do not use the app.",
+
+    "DataWeCollect": "Data We Collect",
+    "DataWeCollectM": "Notify Me does not collect personal data. All reminders are stored locally on your device, and we do not have access to them. The only time we receive data is when you send feedback, and even then, we only collect what you choose to share.",
+
+    "InternetUse": "Internet Use",
+    "InternetUseM": "Notify Me does not require an internet connection for normal usage. The only time the app connects to the internet is when you voluntarily submit feedback. We do not track your online activity or use internet access for any other purpose.",
+
+    "PermissionsWeRequest": "Permissions We Request",
+    "PermissionsWeRequestM": "Notify Me requires the following permissions to function properly:\n- **Notification Access**: To deliver reminders at the scheduled time.\n- **Internet Access** (Only for Feedback): Used only when you choose to send feedback. No data is transmitted otherwise.\nWe do not request access to personal data such as contacts, location, or device storage.",
+
+    "HowWeUseYourData": "How We Use Your Data",
+    "HowWeUseYourDataM": "Your reminders are used only to notify you at the scheduled time. We do not access, process, or share this data. If you submit feedback, we use it only to improve the app and do not link it to any personal information.",
+
+    "FeedbackSubmission": "Feedback Submission",
+    "FeedbackSubmissionM": "If you choose to send feedback through the app, the only data we collect is the content of your message. We do not collect personal details such as your name, email, or device information unless you voluntarily provide them.",
+
+    "AppUsageAndDataStorage": "App Usage and Data Storage",
+    "AppUsageAndDataStorageM": "All reminders you create are stored locally on your device. We do not upload, share, or access them. Since Notify Me does not require an account, your data remains private and under your control.",
+
+    "DataStorageAndSecurity": "Data Storage and Security",
+    "DataStorageAndSecurityM": "Your data stays on your device. We do not store reminders on our servers or share them with third parties. If you send feedback, it is transmitted securely and does not include any personal details unless you voluntarily provide them.",
+
+    "ThirdPartyServices": "Third-Party Services",
+    "ThirdPartyServicesM": "Notify Me does not use any third-party services that collect, track, or process user data. Your information remains private and is not shared with advertisers or analytics services.",
+
+    "YourRights": "Your Rights",
+    "YourRightsM": "Since Notify Me does not store personal data, there is no need for account deletion or data requests. However, if you have any concerns about your feedback or the app, you can contact us.",
+
+    "ChildrenPrivacy": "Children’s Privacy",
+    "ChildrenPrivacyM": "Notify Me is designed for all users and does not collect any personal data from children under 13 or anyone else.",
+
+    "PolicyChanges": "Changes to This Privacy Policy",
+    "PolicyChangesM": "We may update this Privacy Policy from time to time. Any significant changes will be reflected in the app. The 'Last Updated' date at the bottom of this policy will indicate the latest version.",
+
+    "ContactUs": "Contact Us",
+    "ContactUsM": "If you have any questions or concerns about this Privacy Policy or the app, please contact us at: "
+}

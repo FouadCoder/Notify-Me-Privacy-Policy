@@ -1,0 +1,48 @@
+{
+    "english" : "Inglés",
+    "spanish": "Español",
+    "arabic": "Árabe",
+    "german": "Alemán" ,
+
+
+    "privacyPolicy": "Política de Privacidad",
+"privacyPolicyM": "Tu privacidad es importante para nosotros. Esta Política de Privacidad explica cómo Notify Me maneja tus datos y garantiza que tu información permanezca segura. Al usar Notify Me, aceptas esta política. Si no estás de acuerdo, por favor no uses la aplicación.",
+
+"DataWeCollect": "Datos que Recopilamos",
+"DataWeCollectM": "Notify Me no recopila datos personales. Todos los recordatorios se almacenan localmente en tu dispositivo y no tenemos acceso a ellos. La única vez que recibimos datos es cuando envías comentarios, y aun así, solo recopilamos lo que eliges compartir.",
+
+"InternetUse": "Uso de Internet",
+"InternetUseM": "Notify Me no requiere conexión a internet para su uso normal. La única vez que la aplicación se conecta a internet es cuando envías comentarios de manera voluntaria. No rastreamos tu actividad en línea ni utilizamos el acceso a internet para ningún otro propósito.",
+
+"PermissionsWeRequest": "Permisos que Solicitamos",
+"PermissionsWeRequestM": "Notify Me requiere los siguientes permisos para funcionar correctamente:\n- **Acceso a Notificaciones**: Para enviar recordatorios en el momento programado.\n- **Acceso a Internet** (Solo para Comentarios): Se usa únicamente cuando decides enviar comentarios. No se transmite ningún otro dato.\nNo solicitamos acceso a datos personales como contactos, ubicación o almacenamiento del dispositivo.",
+
+"HowWeUseYourData": "Cómo Usamos tus Datos",
+"HowWeUseYourDataM": "Tus recordatorios se utilizan únicamente para notificarte en el momento programado. No accedemos, procesamos ni compartimos estos datos. Si envías comentarios, los usamos solo para mejorar la aplicación y no los vinculamos a ninguna información personal.",
+
+"FeedbackSubmission": "Envío de Comentarios",
+"FeedbackSubmissionM": "Si decides enviar comentarios a través de la aplicación, los únicos datos que recopilamos son el contenido de tu mensaje. No recopilamos detalles personales como tu nombre, correo electrónico o información del dispositivo a menos que los proporciones voluntariamente.",
+
+"AppUsageAndDataStorage": "Uso de la Aplicación y Almacenamiento de Datos",
+"AppUsageAndDataStorageM": "Todos los recordatorios que creas se almacenan localmente en tu dispositivo. No los subimos, compartimos ni accedemos a ellos. Como Notify Me no requiere una cuenta, tus datos permanecen privados y bajo tu control.",
+
+"DataStorageAndSecurity": "Almacenamiento y Seguridad de Datos",
+"DataStorageAndSecurityM": "Tus datos permanecen en tu dispositivo. No almacenamos recordatorios en nuestros servidores ni los compartimos con terceros. Si envías comentarios, se transmiten de manera segura y no incluyen detalles personales a menos que los proporciones voluntariamente.",
+
+"ThirdPartyServices": "Servicios de Terceros",
+"ThirdPartyServicesM": "Notify Me no utiliza servicios de terceros que recopilen, rastreen o procesen datos de los usuarios. Tu información permanece privada y no se comparte con anunciantes ni servicios de análisis.",
+
+"YourRights": "Tus Derechos",
+"YourRightsM": "Dado que Notify Me no almacena datos personales, no es necesario eliminar cuentas ni hacer solicitudes de datos. Sin embargo, si tienes alguna inquietud sobre tus comentarios o la aplicación, puedes contactarnos.",
+
+"ChildrenPrivacy": "Privacidad de los Niños",
+"ChildrenPrivacyM": "Notify Me está diseñado para todos los usuarios y no recopila datos personales de niños menores de 13 años ni de nadie más.",
+
+"PolicyChanges": "Cambios en Esta Política de Privacidad",
+"PolicyChangesM": "Podemos actualizar esta Política de Privacidad de vez en cuando. Cualquier cambio importante se reflejará en la aplicación. La fecha de 'Última actualización' en la parte inferior de esta política indicará la versión más reciente.",
+
+"ContactUs": "Contáctanos",
+"ContactUsM": "Si tienes preguntas o inquietudes sobre esta Política de Privacidad o la aplicación, contáctanos en:"
+
+
+}
