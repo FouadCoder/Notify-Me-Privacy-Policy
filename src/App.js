@@ -1,5 +1,5 @@
 import React, { useState, useEffect} from 'react';
-import { Drawer } from '@mui/material';
+import { Drawer } from 'antd';
 import './i18n';
 import i18next from './i18n'
 import './App.css';
@@ -142,7 +142,7 @@ const changeLanguage = (languageCode) => {
 const listLanguage = languageList.map((element) => (
   <li key={element.id} 
   onClick={() => changeLanguage(element.code)}>
-    <a style={{color : i18next.language === element.code ? "#4D00FF" : "white"}}>{element.language}</a>
+    <a style={{color : i18next.language === element.code ? "#F57C00" : "white"}}>{element.language}</a>
   </li>
 ));
 
@@ -154,7 +154,34 @@ const listLanguage = languageList.map((element) => (
 
   return (
     <div className="App">
+
     {/* SideBar */}
+    <Drawer
+      className="side-bar"
+      placement="left"
+      style={{ background: '#1E1E1E' }}
+      open={sideVisible}
+      onClose={() => setSideVisible(false)}
+    >
+      {/* Menu */}
+      <div className="side-bar-content">
+        <ul className="side-list">{listHeadline}</ul>
+      </div>
+    </Drawer>
+
+    {/* Language Sidebar */}
+    <Drawer
+      className="language-bar"
+      placement="right"
+      style={{ background: '#1E1E1E' }}
+      open={languageVisible}
+      onClose={() => setLanguageVisible(false)}
+    >
+      {/* Language list */}
+      <div className="side-bar-content">
+        <ul className="side-list">{listLanguage}</ul>
+      </div>
+    </Drawer>
 
 
 
