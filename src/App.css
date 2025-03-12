@@ -207,3 +207,9 @@ section {
   cursor: pointer;
   pointer-events: auto;
 }
+
+.version {
+  display: flex; /* Forces it to be on a new line */
+  justify-content: center;
+  color: white;
+}

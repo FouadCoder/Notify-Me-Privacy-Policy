@@ -237,6 +237,7 @@ const listLanguage = languageList.map((element) => (
         <h4>{i18next.t("ContactUs")}</h4>
         <a href="mailto:help.notifyme.team@gmail.com" className='email' id='email'>help.notifyme.team@gmail.com</a>
         </div>
+        <h4 className='version'>{i18next.t("version")}</h4>
       </div>
     </div>
   </div>
