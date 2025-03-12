@@ -166,6 +166,7 @@ const listLanguage = languageList.map((element) => (
       {/* Menu */}
       <div className="side-bar-content">
         <ul className="side-list">{listHeadline}</ul>
+        <li><a href='#email'>{i18next.t("ContactUs")}</a></li>
       </div>
     </Drawer>
 
