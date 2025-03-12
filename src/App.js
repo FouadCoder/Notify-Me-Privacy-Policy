@@ -72,6 +72,10 @@ function App() {
       headline: i18next.t("PolicyChanges"),
       content: i18next.t("PolicyChangesM"),
     },
+    {
+      id: 'email',
+      headline: i18next.t("ContactUs"),
+    }
   ];
   
 // Language List
@@ -125,7 +129,8 @@ const onClickItem = (contentId) => {
   ));
 
 // Content Lsit
-  const listContent = privacyPolicyData.map((element) => (
+  const listContent = privacyPolicyData.filter((element) => element.id !== 'email').
+  map((element) => (
     <section key={element.id} id={element.id}>
     <h2>{element.headline}</h2>
     <p>{element.content}</p>
@@ -167,7 +172,6 @@ const listLanguage = languageList.map((element) => (
       <div className="side-bar-content">
         <ul className="side-list">
           {listHeadline}
-          <li><a href='#email'>{i18next.t("ContactUs")}</a></li>
           </ul>
       </div>
     </Drawer>
@@ -226,7 +230,6 @@ const listLanguage = languageList.map((element) => (
         <div className="side-content">
           <ul className="side-list">
             {listHeadline}
-            <li><a href='#email'>{i18next.t("ContactUs")}</a></li>
             </ul>
         </div>
       )}
